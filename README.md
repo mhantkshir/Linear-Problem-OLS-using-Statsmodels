@@ -28,8 +28,8 @@
 
 **Conclusion**
 >Score Achieved OLS Statsmodels :
-R-squared (uncentered): 0.993
-Adj. R-squared (uncentered): 0.992
+R-squared: 0.993
+Adj. R-squared: 0.992
 
 >Score Achieved Linear Regression :
 R2 score for test is 0.9520086347128638
